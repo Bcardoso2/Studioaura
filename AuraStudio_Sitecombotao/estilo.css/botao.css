@@ -1,0 +1,87 @@
+.paralelograma1,
+.paralelograma2,
+.paralelograma3,
+.paralelograma4,
+.paralelograma5,
+.paralelograma6,
+.paralelograma7 {
+    width: 50px;
+    height: 20px;
+-webkit-transform: skew(-20deg);
+   -moz-transform: skew(-20deg);
+     -o-transform: skew(-20deg);
+background: black;
+text-align:center;
+cursor:pointer;
+display: block;
+}
+.paralelograma1{
+    background-image: linear-gradient(#ff0000, #ff0000), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma1:hover {
+    background-size: 100% 5px, auto;
+}
+.paralelograma2 {
+    background-image: linear-gradient(#FFA500, #FFA500), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma2:hover {
+    background-size: 100% 5px, auto;
+}
+.paralelograma3 {
+    background-image: linear-gradient(#FFFF00, #FFFF00), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma3:hover {
+    background-size: 100% 5px, auto;
+}
+.paralelograma4 {
+    background-image: linear-gradient(#008000, #008000), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma4:hover {
+    background-size: 100% 5px, auto;
+}
+.paralelograma5 {
+    background-image: linear-gradient(#003366, #003366), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma5:hover {
+    background-size: 100% 5px, auto;
+}
+.paralelograma6 {
+    background-image: linear-gradient(#07036c, #07036c), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma6:hover {
+    background-size: 100% 5px, auto;
+}
+.paralelograma7 {
+    background-image: linear-gradient(#800080, #800080), linear-gradient(black, black);
+    background-size: 0 5px, auto;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    transition: all .4s ease-out;
+}
+.paralelograma7:hover {
+    background-size: 100% 5px, auto;
+}
